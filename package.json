@@ -1,0 +1,66 @@
+{
+  "name": "gatsby-d8g",
+  "private": true,
+  "description": "Snipcart Website",
+  "version": "0.1.0",
+  "author": "Dean Witcraft <dean.witcraft@outlook.com>",
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.3.0",
+    "@fortawesome/free-brands-svg-icons": "^6.3.0",
+    "@fortawesome/free-solid-svg-icons": "^6.3.0",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@livechat/widget-react": "^1.2.3",
+    "@vercel/analytics": "^1.1.1",
+    "autoprefixer": "^10.4.13",
+    "bootstrap": "^5.2.3",
+    "dotenv": "^16.0.3",
+    "gatsby": "^5.6.1",
+    "gatsby-cli": "^5.6.0",
+    "gatsby-plugin-breadcrumb": "^12.3.1",
+    "gatsby-plugin-fontawesome-css": "^1.2.0",
+    "gatsby-plugin-gatsby-cloud": "^5.6.0",
+    "gatsby-plugin-google-tagmanager": "^5.6.0",
+    "gatsby-plugin-image": "^3.6.0",
+    "gatsby-plugin-klaviyo": "^0.1.2",
+    "gatsby-plugin-lucky-orange": "^1.0.3",
+    "gatsby-plugin-preload-fonts": "^4.6.0",
+    "gatsby-plugin-robots-txt": "^1.8.0",
+    "gatsby-plugin-sharp": "^5.6.0",
+    "gatsby-plugin-sitemap": "^6.6.0",
+    "gatsby-source-filesystem": "^5.6.0",
+    "gatsby-transformer-csv": "^5.6.0",
+    "gatsby-transformer-remark": "^6.6.0",
+    "gatsby-transformer-sharp": "^5.6.0",
+    "postcss": "^8.4.21",
+    "prop-types": "^15.8.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-elfsight-widget": "^1.0.3",
+    "react-slick": "^0.29.0",
+    "reactstrap": "^9.1.5",
+    "slick-carousel": "^1.8.1"
+  },
+  "devDependencies": {
+    "gatsby-plugin-postcss": "^6.6.0",
+    "prettier": "2.8.4",
+    "tailwindcss": "^3.2.6"
+  },
+  "keywords": [
+    "gatsby"
+  ],
+  "license": "0BSD",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "preload-fonts": "gatsby-preload-fonts",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.com:witcradg/gatsby-d8g.git"
+  }
+}

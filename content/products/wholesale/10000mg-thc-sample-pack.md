@@ -1,0 +1,39 @@
+---
+cardName: ThcSamplePack10KCase
+crumbsPath: /collections/wholesale
+crumbsLabel: Wholesale Delta 8
+productCardImage: ../../../src/images/10000mg-delta-8-thc-sample-pack.png
+productCardImageAlt: 10,000MG Delta 8 THC Sample Pack
+title: 10,000MG Delta 8 THC Sample Pack
+discountedPrice: 349.93
+originalPrice: 499.90
+displayedDiscount: SALE
+outOfStock: true
+productLink: /products/wholesale/10000mg-delta-8-thc-sample-pack
+yotpoProductId: 
+dataItemId: 10000mg-delta-8-thc-sample-pack
+dataItemUrl: https://delta8gummies.com/products/wholesale/10000mg-delta-8-thc-sample-pack
+dataItemDescription: Delta 8 Gummies Sells Only the highest Quality Delta 8 THC 200mg Pouches Fully Formulated from Hemp. These products are 2018 Federal Farm Bill Legal.
+dataItemImage: ../../../src/images/10000mg-delta-8-thc-sample-pack.png
+dataItemName: 10,000MG Delta 8 THC Sample Pack
+dataItemCategory: Wholesale
+productImage: ../../../src/images/10000mg-delta-8-thc-sample-pack.png
+PIalt:  10,000MG Delta 8 THC Sample Pack
+productAlt1Image: 
+PI1alt: 
+productAlt2Image: 
+PI2alt: 
+productAlt3Image: 
+PI3alt: 
+productAlt4Image: 
+PI4alt: 
+descriptionTotalContent: 10,000
+descriptionPotency: 25mg-100mg
+descriptionCount: 10 Units
+descriptionTotalCaseContent: 16,000mg
+descriptionCaseCount: 16 Units
+reviewsProductId: 
+reviewsItemName: 
+seoTitle: ${pageTitle} | Delta 8 Gummies
+seoDescription: ${pageTitle} Wholesale Watermelon Delta-8 Edibles. 1,000mg per jar, 16 jars per case. PLEASE NOTE We can not ship Delta 8 products to the following states Alaska, Arizona, Arkansas, Colorado, Delaware
+---

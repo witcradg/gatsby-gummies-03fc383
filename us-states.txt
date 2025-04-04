@@ -1,0 +1,50 @@
+montana.md:statename: Montana
+new-mexico.md:statename: New Mexico
+colorado.md:statename: Colorado
+pennsylvania.md:statename: Pennsylvania
+south-dakota.md:statename: South Dakota
+maryland.md:statename: Maryland
+new-york.md:statename: New York
+kansas.md:statename: Kansas
+south-carolina.md:statename: South Carolina
+west-virginia.md:statename: West Virginia
+iowa.md:statename: Iowa
+oregon.md:statename: Oregon
+alaska.md:statename: Alaska
+wisconsin.md:statename: Wisconsin
+minnesota.md:statename: Minnesota
+arizona.md:statename: Arizona
+virginia.md:statename: Virginia
+illinois.md:statename: Illinois
+north-dakota.md:statename: North Dakota
+delaware.md:statename: Delaware
+vermont.md:statename: Vermont
+missouri.md:statename: Missouri
+utah.md:statename: Utah
+alabama.md:statename: Alabama
+oklahoma.md:statename: Oklahoma
+tennessee.md:statename: Tennessee
+indiana.md:statename: Indiana
+maine.md:statename: Maine
+rhode-island.md:statename: Rhode Island
+wyoming.md:statename: Wyoming
+washington.md:statename: Washington
+idaho.md:statename: Idaho
+new-jersey.md:statename: New Jersey
+louisiana.md:statename: Louisiana
+connecticut.md:statename: Connecticut
+north-carolina.md:statename: North Carolina
+california.md:statename: California
+hawaii.md:statename: Hawaii
+mississippi.md:statename: Mississippi
+arkansas.md:statename: Arkansas
+massachusetts.md:statename: Massachusetts
+georgia.md:statename: Georgia
+texas.md:statename: Texas
+nebraska.md:statename: Nebraska
+new-hampshire.md:statename: New Hampshire
+nevada.md:statename: Nevada
+kentucky.md:statename: Kentucky
+ohio.md:statename: Ohio
+florida.md:statename: Florida
+michigan.md:statename: Michigan
