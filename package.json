@@ -11,6 +11,7 @@
     "@fortawesome/react-fontawesome": "^0.2.0",
     "@livechat/widget-react": "^1.2.3",
     "@vercel/analytics": "^1.1.1",
+    "ajv": "^8.17.1",
     "autoprefixer": "^10.4.13",
     "bootstrap": "^5.2.3",
     "dotenv": "^16.0.3",

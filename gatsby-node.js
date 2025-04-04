@@ -1,6 +1,6 @@
 const path = require(`path`);
 
-const limit = process.env.CITIES || 999999;
+const limit = process.env.CITIES || 10;
 
 console.log('Cities pages limit is', limit);
 
