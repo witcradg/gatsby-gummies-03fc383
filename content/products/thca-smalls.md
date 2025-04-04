@@ -27,7 +27,7 @@ productAlt3Image:
 PI3alt: 
 productAlt4Image: 
 PI4alt: 
-descriptionTotalContent: 4
+descriptionTotalContent: 4ea
 descriptionPotency: Mixed
 descriptionCount: "4"
 reviewsProductId: 6674105401504

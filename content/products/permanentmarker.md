@@ -28,7 +28,7 @@ PI3alt:
 productAlt4Image: 
 PI4alt: 
 descriptionTotalContent: Ounce
-descriptionPotency: .0291
+descriptionPotency: .0291xx
 descriptionCount: "28"
 reviewsProductId: 6674105401504
 reviewsItemName: THCA Permanent Marker
